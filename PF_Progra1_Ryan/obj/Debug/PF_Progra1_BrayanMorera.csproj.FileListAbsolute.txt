@@ -1,0 +1,8 @@
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\bin\Debug\PF_Progra1_BrayanMorera.exe.config
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\bin\Debug\PF_Progra1_BrayanMorera.exe
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\bin\Debug\PF_Progra1_BrayanMorera.pdb
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\obj\Debug\PF_Progra1_BrayanMorera.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\obj\Debug\PF_Progra1_BrayanMorera.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\obj\Debug\PF_Progra1_BrayanMorera.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\obj\Debug\PF_Progra1_BrayanMorera.exe
+C:\Users\bryan\source\repos\PF_Progra1_BrayanMorera\PF_Progra1_BrayanMorera\obj\Debug\PF_Progra1_BrayanMorera.pdb
